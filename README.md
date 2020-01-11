@@ -26,6 +26,9 @@ class Example extends Component {
 }
 ```
 
+## Changelog
+The complete changelog can be found [here](./CHANGELOG.md).
+
 ## License
 
 MIT © [Cem Derin](https://github.com/cemderin)
