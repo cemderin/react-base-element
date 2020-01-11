@@ -15,12 +15,12 @@ yarn add react-base-element
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-base-element'
+import { Base } from 'react-base-element'
 
 class Example extends Component {
   render () {
     return (
-      <MyComponent />
+      <Base />
     )
   }
 }
