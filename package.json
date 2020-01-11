@@ -5,6 +5,7 @@
   "author": "cemderin",
   "license": "MIT",
   "repository": "cemderin/react-base-element",
+  "origin": "cemderin/react-base-element",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
