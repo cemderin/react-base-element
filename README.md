@@ -7,7 +7,7 @@ Abstract react base element for personal use.
 ## Install
 
 ```bash
-yarn add react-base-element
+yarn add @cemderin/react-base-element
 ```
 
 ## Usage
