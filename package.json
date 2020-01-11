@@ -1,11 +1,10 @@
 {
   "name": "@cemderin/react-base-element",
-  "version": "0.0.3",
+  "version": "0.0.2",
   "description": "",
   "author": "cemderin",
   "license": "MIT",
   "repository": "cemderin/react-base-element",
-  "origin": "cemderin/react-base-element",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
@@ -71,5 +70,8 @@
   },
   "dependencies": {
     "styled-components": "^4.4.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
