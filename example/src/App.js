@@ -1,12 +1,21 @@
 import React, { Component } from 'react'
-
-import ExampleComponent from 'react-base-element'
+import { Base, BaseHeader, BaseBody, BaseFooter } from 'react-base-element'
 
 export default class App extends Component {
   render () {
     return (
       <div>
-        <ExampleComponent text='Modern React component module' />
+        <Base>
+          <BaseHeader>
+            Header
+          </BaseHeader>
+          <BaseBody>
+            Body
+          </BaseBody>
+          <BaseFooter>
+            Footer
+          </BaseFooter>
+        </Base>
       </div>
     )
   }
